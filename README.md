@@ -1,15 +1,18 @@
 Uber Bussiness Analysis Using Power BI
   
 Agenda :
+
 •	Project Overview
 •	Data Source
 •	Data Preparation
 •	Dashboard Visualization
 
 Project Overview :
+
 This project aims to analyze Uber ride data to understand various aspects of ride usage, such as the distribution of rides across different categories, purposes, months, days, and times. The analysis is visualized using a dashboard to provide insights into ride patterns and help make data-driven decisions.
 
 Data Source :
+
 •	Dataset Name:	 Uber Dataset
 •	Source: 		Kaggle
 •	File Type:		Excel File
@@ -17,6 +20,7 @@ Data Source :
 •	Total Columns:	19
 
 Data Preparation:
+
 •	Imported dataset into Power BI Desktop from Excel file.
 •	Performed data cleaning using Power Query Editor to ensure accuracy and consistency.
 •	Checked and removed null values in columns.
@@ -26,6 +30,7 @@ Data Preparation:
 •	Loaded the cleaned data into the Power BI Model for visualization and data analysis.
 
 Dashboard Visualizations :
+
 1.	Overview Page Dashboard:
    • KPI’s (Key Performance Indicators) :
       Completed Bookings
