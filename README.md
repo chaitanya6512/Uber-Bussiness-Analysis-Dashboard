@@ -32,6 +32,7 @@ Data Preparation:
 Dashboard Visualizations :
 
 1.	Overview Page Dashboard:
+   
    • KPI’s (Key Performance Indicators) :
       Completed Bookings
       Lost Bookings
@@ -43,30 +44,36 @@ Dashboard Visualizations :
     Clustered Column Chart :   DataAxis(Amount,Monthly) vs Booking value.
     Clustered bar Chart: Vehicle Type vs Revenue.
     Cards : Top Drop and Pickup Location based on booking count.
-  •	Ratings :
+    
+2.	Ratings :
+   
     Avg Rider Ratings.
     Avg Driver Ratings.
 
-2.	Vehicle Page Dashboard: 
+3.	Vehicle Page Dashboard:
+   
   •	Visuals Used:
     Table : Detailed Information by Vehicle.
     Image, Vehicle, Customer_count, Revenue, Completed Bookings, Cont%, Bookings by Month.
 
-3.	Revenue Page Dashboard:
+4.	Revenue Page Dashboard:
+   
   •	Visuals Used :
     Clustered bar Chart: Vehicle Type vs Revenue.
     Clustered bar Chart: Customer ID vs Revenue.
     Clustered Column Chart :   Payment method vs Revenue.
     Area Chart 	:Amount &Monthly Revenue  vs Completed Bookings.
 
-4.	Rider Page Dashboard:
+5.	Rider Page Dashboard:
+   
   •	Visuals Used :
    Multi-row Card : Cancel Rides by Reasons.
   Clustered bar Chart: Count of Customer ID vs Payment method.
   Table : Detailed Information by Vehicle.(Cust_Id, Revenue, Lost&Completd Bookings, Total&Avg distance, First rider, Return rider, Regular rider.
   Area Chart 	:Amount&Quaterly Customer vs Customer Count.
 
-5.	Location Page:
+6.	Location Page:
+   
   •	Visuals Used :
   Clustered bar Chart: Vehicle Type vs Total Distance.
   Clustered bar Chart: Booking Count  vs Pickup Location.
